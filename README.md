@@ -8,11 +8,11 @@ At the very initial stage, adequate time was spent to perform data wrangling whi
 the outliers, and transforming the data to the required format.Later, Exploratory Analytics was conducted using Python,  A lot of Calculated fields were created as a process. Also, the Predictive partof the solution involves the successful implementation of the Dimensionality Reduction technique i.e. PCA to identify the principalcomponents from the dataset as the dataset had high Dimensionality. Finally, the Naive Bayes algorithm was selected as it was giving highaccuracy scores to the model and our dataset was even not violating any underlying assumptions for the machine learning algorithm.
 
 # Note:
-For answering some complex Business queries  BI tool(Tableau) has been used. As a process alot of new Calculated fields have been created 
+For answering some complex Business queries  BI tool(Tableau) has been used. As a process alot of new Calculated fields have been created .
 to address the problem and solution to that problem in a better way.
 
 # Package Used
-Majour Use of Pandas, Numpy, ScikitLearn, matplotlib , Seaborne and pywaffle
+Majour Use of Pandas, Numpy, ScikitLearn, matplotlib , Seaborne and pywaffle.
 
 # Predictive Modelling
 As the data was high Dimensional, implementing Dimensionality reduction becomes necessary. So PCA was applied to bring out the principal 
@@ -22,7 +22,7 @@ components and later Naive Bayes was applied to predict the readmissions effecti
 The Accuracy for the Problem given comes out to be around 87%.
 
 # Deploying Project on your Local System
-You would require an active connection with Integrated developement Enviornment, preferably Visual Studio or Spyder, IMT_PII.py file and the dataset indeed. With all this things you are pretty much ready to Proceed
+You would require an active connection with Integrated developement Enviornment, preferably Visual Studio or Spyder, IMT_PII.py file and the dataset indeed. With all this things you are pretty much ready to Proceed.
 
 # Output
 As this was one of my acedemia Project I have created a PDF which is also a part of this Git Repository . It Provides a Complete overview of the solution provided.
