@@ -21,3 +21,8 @@ components and later Naive Bayes was applied to predict the readmissions effecti
 # Accuracy
 The Accuracy for the Problem given comes out to be around 87%.
 
+# Deploying Project on your Local System
+You would require an active connection with Integrated developement Enviornment, preferably Visual Studio or Spyder, IMT_PII.py file and the dataset indeed. With all this things you are pretty much ready to Proceed
+
+# Output
+As this was one of my acedemia Project I have created a PDF which is also a part of this Git Repository . It Provides a Complete overview of the solution provided.
